@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎨 Discord Colored Text Generator  
 
-## Getting Started
+This is a simple web application that allows users to create colored Discord messages using ANSI color codes, which are supported in the latest versions of Discord desktop.  
 
-First, run the development server:
+## ✨ Features  
+- **Real-time Text Formatting** – Apply ANSI colors to specific parts of your message.  
+- **Easy Copy-Paste** – Generate formatted text and copy it with a single click.  
+- **User-Friendly Interface** – Built with Next.js and Mantine UI for a sleek and intuitive experience.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo  
+[Discord Colored Text Generator](https://discord-text-generator-one.vercel.app/)  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack  
+- **Frontend**: Next.js, Mantine UI  
+- **Color Formatting**: ANSI color codes  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📥 Installation  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/aman2225/Discord-Text-Generator.git
+   cd Discord-Text-Generator
 
-## Learn More
+2. Install dependencies:
+   ```bash
+   npm install
 
-To learn more about Next.js, take a look at the following resources:
+3. Run the development server:
+   ```bash
+   npm run dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. ```bash
+   Open http://localhost:3000 in your browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 Usage
 
-## Deploy on Vercel
+1. Type your message in the text area.
+2. Select a portion of text and apply a color.
+3. Copy the formatted text using the copy button.
+4. Paste it into Discord to see the colored message.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🔗 Links  
+- **GitHub Repository**: [Discord-Text-Generator](https://github.com/aman2225/Discord-Text-Generator)  
+- **Live Demo**: [discord-text-generator-one.vercel.app](https://discord-text-generator-one.vercel.app/)  
