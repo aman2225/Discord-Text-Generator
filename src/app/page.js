@@ -37,7 +37,7 @@ export default function DiscordTextGenerator() {
   useEffect(() => {
     if (editorRef.current) {
       editorRef.current.focus();
-      editorRef.current.innerHTML = "Welcome to Rebane's <strong>Discord</strong> Colored Text Generator!";
+      editorRef.current.innerHTML = "Welcome to <strong>Discord</strong> Colored Text Generator!";
     }
   }, []);
 
