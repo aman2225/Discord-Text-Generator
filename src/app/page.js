@@ -215,7 +215,7 @@ export default function DiscordTextGenerator() {
         
         <h3 style={{ color: dark ? "#E9ECEF" : "#212529" }}>Source Code</h3>
         <p style={{ color: dark ? "#CED4DA" : "#495057" }}>
-          This app runs entirely in your browser and the source code is freely available on <a href="https://github.com" style={{ color: "#4DABF7" }}>GitHub</a>.
+          This app runs entirely in your browser and the source code is freely available on <a href="https://github.com/aman2225/Discord-Text-Generator" style={{ color: "#4DABF7" }}>GitHub</a>.
         </p>
         
         <h3 style={{ color: dark ? "#E9ECEF" : "#212529" }}>Create your text</h3>
