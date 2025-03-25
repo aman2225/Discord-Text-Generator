@@ -80,7 +80,7 @@ export default function DiscordTextGenerator() {
 
   const resetAll = () => {
     if (editorRef.current) {
-      editorRef.current.innerHTML = "Welcome to Rebane's <strong>Discord</strong> Colored Text Generator!";
+      editorRef.current.innerHTML = "Welcome to <strong>Discord</strong> Colored Text Generator!";
       setForegroundColor("#ffffff");
       setBackgroundColor("#1A1B1E");
       setCopySuccess(false);
