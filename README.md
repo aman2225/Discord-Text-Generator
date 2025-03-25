@@ -29,10 +29,6 @@ This is a simple web application that allows users to create colored Discord mes
    ```bash
    npm run dev
 
-4. 
-```bash
-   Open (http://localhost:3000) in your browser.
-
 ## 📝 Usage
 
 1. Type your message in the text area.
