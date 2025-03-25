@@ -11,7 +11,7 @@ This is a simple web application that allows users to create colored Discord mes
 [Discord Colored Text Generator](https://discord-text-generator-one.vercel.app/)  
 
 ## 🛠️ Tech Stack  
-- **Frontend**: Next.js, Mantine UI  
+- **Web Applications**: Next.js, Mantine UI  
 - **Color Formatting**: ANSI color codes  
 
 ## 📥 Installation  
