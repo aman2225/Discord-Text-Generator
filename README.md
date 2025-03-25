@@ -29,8 +29,9 @@ This is a simple web application that allows users to create colored Discord mes
    ```bash
    npm run dev
 
-4. ```bash
-   Open http://localhost:3000 in your browser.
+4. 
+```bash
+   Open (http://localhost:3000) in your browser.
 
 ## 📝 Usage
 
@@ -39,6 +40,6 @@ This is a simple web application that allows users to create colored Discord mes
 3. Copy the formatted text using the copy button.
 4. Paste it into Discord to see the colored message.
 
-## 🔗 Links  
+<!-- ## 🔗 Links  
 - **GitHub Repository**: [Discord-Text-Generator](https://github.com/aman2225/Discord-Text-Generator)  
-- **Live Demo**: [discord-text-generator-one.vercel.app](https://discord-text-generator-one.vercel.app/)  
+- **Live Demo**: [discord-text-generator-one.vercel.app](https://discord-text-generator-one.vercel.app/)   -->
